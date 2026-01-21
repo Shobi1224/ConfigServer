@@ -1,0 +1,5 @@
+  datasource:
+    url: jdbc:mysql://localhost:3306/ltac_campaign
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
